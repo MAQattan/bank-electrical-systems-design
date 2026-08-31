@@ -92,7 +92,7 @@ In the event of a utility grid failure, a **125 kVA Cummins C100 D5** diesel gen
   * *Alternator Unit:* Stamford Brushless, IP23, insulation Class H.
 * **ATS Circuit Details:** Controlled by NC/NO limit switches, relay coils, time-on/time-off coils, and contactors $K_1$ (utility mains) and $K_2$ (generator) to prevent parallel grid-generator synchronization, protected upstream by dual 200A MCCBs.
 
-![ATS diagram](ATS_diagram.png)
+![ATS diagram](Diagrams/ATS_diagram.png)
 > **[📄 Click here to download or view the high-resolution PDF diagram.](Diagrams/ATS_diagram.pdf)**
 
 #### 3. Distribution Boards & Cable Sizing
