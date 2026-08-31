@@ -217,10 +217,10 @@ Voltage drop calculations demonstrate strict compliance with the $\Delta U\% < 3
     <!-- الصورة الثانية -->
     <td align="center" width="50%">
       <b>General Power for the ground floor</b><br><br>
-      <a href="Diagrams/general-purpose_outlets_of_the_ground_floor.pdf" target="_blank">
-        <img src="Diagrams/general-purpose_outlets_of_the_ground_floor.png" alt="General Power" width="100%">
+      <a href="Diagrams/General-purpose_outlets_of_the_ground_floor.pdf" target="_blank">
+        <img src="Diagrams/General-purpose_outlets_of_the_ground_floor.png" alt="General Power" width="100%">
       </a><br><br>
-      <a href="Diagrams/general-purpose_outlets_of_the_ground_floor.pdf" target="_blank">📄 <b>View High-Res PDF</b></a>
+      <a href="Diagrams/General-purpose_outlets_of_the_ground_floor.pdf" target="_blank">📄 <b>View High-Res PDF</b></a>
     </td>
   </tr>
   <tr>
